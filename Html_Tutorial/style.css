@@ -2,6 +2,10 @@ body {
     
 }
 
-h1, p {
-    color: blue;
+b {
+    margin: 60px;
+}
+
+p {
+    margin: inherit;
 }
