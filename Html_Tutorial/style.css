@@ -1,11 +1,3 @@
 body{
-    margin: 0%;
-}
-
-b {
-    margin: 60px;
-}
-
-p {
-    margin: inherit;
+    font-family: Verdana;
 }
