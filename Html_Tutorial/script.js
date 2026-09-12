@@ -1,9 +1,7 @@
-let age = 25;
-let price = 10.99;
-let gpa = 2.1;
-let firstName = "Bro";
+let fullName = "Edward Skeete";
+let age = 23;
+let student = false;
 
-
-console.log(`you are ${age} years old`);
-console.log(`The price is ${price}`)
-console.log(typeof firstName)
+document.getElementById("P1").textContent = `Your name is ${fullName}`;
+document.getElementById("P2").textContent = `You are ${age} years old`;
+document.getElementById("P3").textContent = `Enrolled: ${student}`;
